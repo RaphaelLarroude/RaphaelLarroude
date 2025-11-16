@@ -58,3 +58,7 @@
 <img src="https://raw.githubusercontent.com/RaphaelLarroude/RaphaelLarroude/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<img src="https://raw.githubusercontent.com/RaphaelLarroude/RaphaelLarroude/output/pacman.svg" alt="Pacman animation" />
+
+###
