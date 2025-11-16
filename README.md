@@ -59,6 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RaphaelLarroude/RaphaelLarroude/output/pacman.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/RaphaelLarroude/RaphaelLarroude/output/pacman.svg" alt="Pacman animation" />](https://raw.githubusercontent.com/RaphaelLarroude/RaphaelLarroude/output/pacman-contribution-graph.svg">
 
 ###
